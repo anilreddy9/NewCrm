@@ -15,7 +15,7 @@ public class DataBaseTesting {
 		String username = "root";	
         
 		//Database Password		
-		String password = "devendar9";				
+		String password = "******";				
 
 		//Query to Execute		
 		String query = "select *  from employee;";	
